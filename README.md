@@ -1,2 +1,2 @@
 # algodaren
-algorithm daren
+刷算法,练python
